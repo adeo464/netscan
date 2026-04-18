@@ -84,7 +84,7 @@ Notes
 
 This is a small project for learning and experimentation.
 For serious use, use nmap.
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repo
 2. Create a feature branch: `git checkout -b feat/my-feature`
@@ -96,6 +96,6 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 
 ---
 
-## 📄 License
+## License
 
 MIT — see [LICENSE](LICENSE).
